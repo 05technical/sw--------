@@ -1,5 +1,9 @@
 def print_hello():
-    print("Hello world")
+    print("Hello world!")
+
+print(오픈소스)
+print(금오공과대햑교)
+print(추석)
 
 if __name__ == '__main__':
     print_hello()
